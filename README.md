@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @steppispo
-- 😄 At the prime age of 36, I decided to change career and properly learn coding instead of slacking.
+- 😄 At the prime age of 36, I decided to properly learn coding instead of slacking.
 - 👀 I’m interested in building stuff. I also have bazillion hobbies that keep popping, dying, being revived.   
 - 🌱 I’m currently learning Python, Git. 
 - 💞️ I’m looking to collaborate on. Well, let's see when I am a bit more useful in development. 
