@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python, Git. 
 - 💞️ I’m looking to collaborate on. Well, let's see when I am a bit more useful in development. 
 - 📫 How to reach me. Don't. Please. 
-- ⚡ Fun fact: I am AuDHD. Some of my jokes land quite well. I like machines. They are quite dependable. 
 
 <!---
 steppispo/steppispo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
